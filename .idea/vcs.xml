@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/src/main/java/com/zkr/Mapper" vcs="Git" />
+=======
+>>>>>>> 91e425e2e1891bd60a30b9a882b315208f29464a
   </component>
 </project>

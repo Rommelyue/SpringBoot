@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/springBootRedisDemo.iml" filepath="$PROJECT_DIR$/springBootRedisDemo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/gitTest.iml" filepath="$PROJECT_DIR$/gitTest.iml" />
+>>>>>>> 91e425e2e1891bd60a30b9a882b315208f29464a
     </modules>
   </component>
 </project>

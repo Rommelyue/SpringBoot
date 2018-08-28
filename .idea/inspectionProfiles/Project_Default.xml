@@ -32,6 +32,9 @@
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
       <option name="myAdditionalJavadocTags" value="date" />
     </inspection_tool>
+<<<<<<< HEAD
     <inspection_tool class="SpringJavaInjectionPointsAutowiringInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+=======
+>>>>>>> 91e425e2e1891bd60a30b9a882b315208f29464a
   </profile>
 </component>

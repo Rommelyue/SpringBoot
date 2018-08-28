@@ -6,11 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="springBootRedisDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springBootRedisDemo" target="1.7" />
+=======
+        <module name="gitTest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gitTest" target="1.7" />
+>>>>>>> 91e425e2e1891bd60a30b9a882b315208f29464a
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -28,7 +28,7 @@ public class UserServiceImpl implements UserService {
 		boolean hasKey = redisTemplate.hasKey(key);
 		if (hasKey) { // 从缓存中取
             User user = redisTemplate.opsForValue().get(key);
-            System.out.println("获得了用户从缓存中!!!");
+            System.out.println("获得了用户从缓存中!!");
             return user;
         }
 		User user=userMapper.findById(id);
