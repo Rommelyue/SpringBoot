@@ -1,0 +1,23 @@
+server:
+  port: 8080
+
+spring:
+    datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3306/mybatisdb
+        username: root
+        password: 1q2w3e
+
+mybatis:
+  typeAliasesPackage: com.zkr.Pojo
+  mapperLocations: classpath:mappers/*.xml
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  pool:
+    max-active: 8
+    max-wait: 1
+    max-idle: 8
+    min-idle: 0
+    timeout: 0
